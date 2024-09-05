@@ -1,0 +1,20 @@
+.report-container {
+  height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  .report-filter {
+    height: 100%;
+    // max-height: 300px;
+  }
+  .report-result {
+    min-height: 800px;
+    // height: calc(100% - 300px);
+    // max-height: calc(100% - 300px);
+    height: 100%;
+    min-height: 800px;
+    embed {
+      width: 100% !important;
+      height: 100% !important;
+    }
+  }
+}

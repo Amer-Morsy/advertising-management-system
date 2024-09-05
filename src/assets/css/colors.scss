@@ -1,0 +1,115 @@
+:root {
+  //#region Main
+  --color-navbar: #fff;
+  --color-navbar-shadow: #616161;
+  --color-sidebar: #089bab;
+  --color-sidebar-text: #f5f5f5;
+  --color-sidebar-shadow: #000000d4;
+  --color-sidebar-submenu: #6f5cd700;
+
+  --color-top: #4896a0;
+  --color-middel: #50a5b1;
+  --color-light: #62bac5;
+  //#endregion Main
+
+  //#region Text
+  --color-text-main: #212121;
+  --color-text-main-light: #7d8597;
+  --color-text-secondary: #eb8668;
+  --color-text-secondary-light: #cccccc;
+  --color-error: #ff4224;
+  --color-error-trans: #ff6c55;
+  --color-input-border: #2f8792;
+  --color-input-border2: #b4dbfa;
+  //#endregion Text
+
+  //#region Background
+  --color-bg-main: #fefefe;
+  --color-bg-main-opacity: #ffffff99;
+  --color-bg-secondary: #089bab;
+  --color-bg-page-content: #ffffff;
+  --color-bg-collapse-actions: #afb6c7;
+  //#endregion Background
+
+  //#region Footer
+  --color-bg-footer: #5d9299;
+  --color-footer-text: #f1e9e9;
+  //#endregion Footer
+
+  //#region HomePage
+  --color-bg-slider: #40a8b5;
+  --color-contact-info-title: #379aa7;
+  --color-bg-home-mission-vision: #54b0bc;
+  --color-bg-footer-home: #3da2af;
+  --color-bg-home-footer: #089bab;
+  //#endregion HomePage
+
+  //#region Buttons
+  --color-btn: #276d76;
+  --color-btn-hover: #2f8792;
+  --color-bg-active-link: #d5e2ff;
+  --color-dropdown-active: #276d76;
+  //#endregion Buttons
+
+  //#region Notification
+  --color-notification-title: #222;
+  --color-notification-description: #555;
+  --color-notification-date: #777;
+  //#endregion Notification
+
+  //#region Scroll
+  --color-scroll: #919191;
+  //#endregion Scroll
+
+  //#region CustomCard
+  --color-custom-card-bg: #fff;
+  --color-custom-card-shadow: #00000099;
+  --color-custom-card-details-bg: #000000a6;
+  --color-custom-card-details-text1: #fff;
+  --color-custom-card-details-text2: #ccc;
+  //#endregion CustomCard
+
+  //#region General
+  --color-black: #000000;
+  --color-red: #ff4747;
+  --color-green: #47cf4d;
+  --color-yellow: #fbe059;
+  --color-orange: #fc9816;
+  --color-grey: #7e7e7e;
+  --color-white: #ffffff;
+  //#endregion General
+
+  /*#region navTabs */
+  --color-nav-tabs-border: #175961;
+  --outer-tab-active-color: #089bab;
+  --inner-tab-active-color: #0b8694;
+  /*#endregion navTabs */
+
+  /*#region UserCardInfo */
+  --color-user-card-border: #4f4f59;
+  /*#endregion UserCardInfo */
+
+  /*#region container collapse with btns  */
+  --collapsed-bg: #535454;
+  /*#endregion container collapse with btns */
+
+  /*#region progress  */
+  --color-progress-1: #00bf36;
+  --color-progress-2: #e11919;
+  /*#endregion progress */
+
+  /*#region PreLoader */
+  --color-loader-bg: #eb876885;
+  --color-loader-bg-box1: #40a8b5;
+  --color-loader-bg-box2: #3d848d;
+  --color-loader-bg-box3: #3b97a3;
+  --color-loader-bg-box4: #54b0bd;
+  --color-loader-bg-box5: #4eb9c7;
+  --color-loader-bg-box-shadow: #40a8b5;
+  /*#endregion PreLoader */
+
+  /*#region pagination */
+  --pagination-input-bg: #35808a;
+  /*#endregion pagination */
+  --dashboard-content-bg: #e1f5f6;
+}
