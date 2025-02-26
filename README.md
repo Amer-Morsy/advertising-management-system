@@ -1,4 +1,48 @@
 <h1 align="center">AMS-DEV1.1 ( WEB - Vue.Js ) </h1>
+<p align="center">
+  <img width="300" height="300" src="./src/assets/images/img1.jpeg">
+  <img width="300" height="300" src="./src/assets/images/img2.jpeg">
+  <img width="300" height="300" src="./src/assets/images/img3.jpeg">
+  <img width="300" height="300" src="./src/assets/images/img4.jpeg">
+</p>
+
+---
+
+## Features:
+
+  #### User-friendly interface for Advertising Management System
+
+  #### Real-time data visualization with Chart.js
+
+  #### Responsive design for all devices
+
+  #### Secure authentication and authorization
+
+  #### Integration with API for backend services
+
+  #### Multi-language support with vue-i18n
+
+  #### File management with vue-file-agent
+
+  #### Calendar integration with v-calendar
+
+## Technologies Used:
+
+  #### Vue.js
+
+  #### Node.js
+
+  #### Chart.js
+
+  #### Firebase
+
+  #### Bootstrap & Bootstrap-Vue
+
+  #### Axios
+
+  #### ESLint for code linting
+
+  #### Babel for JavaScript compilation
 
 <p align="center">
   <img width="250" height="250" src="./src/assets/images/logo.png">
